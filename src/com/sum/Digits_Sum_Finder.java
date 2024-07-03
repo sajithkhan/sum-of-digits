@@ -23,7 +23,9 @@ public class Digits_Sum_Finder {
 		int number = scanner.nextInt();
 		Digits_Sum_Finder.sumFinder(number);
 		
-		
+		method{
+			
+		}
 
 	}
 
